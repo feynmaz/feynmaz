@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @feynmaz
 - 👀 I’m interested in web backend development
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/feynmaz
 
 <!---
