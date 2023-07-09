@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feynmaz
-- 👀 I’m interested in web backend development
-- 🌱 I’m currently learning golang web dev
+- 👀 I’m interested in web backend development and blockchain
+- 🌱 I’m currently learning blockchain development with python and solidity
 - 📫 How to reach me https://t.me/feynmaz
 
 <!---
